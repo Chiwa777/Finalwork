@@ -27,6 +27,7 @@ double computeCos(double x) {
 }
 
 int main() {
+    int num[10];
     double x;
     setlocale(LC_ALL, "");
 
@@ -35,6 +36,20 @@ int main() {
 
     double cosX = computeCos(x);
     printf("Cos(%.2f) = %.6f\n", x, cosX);
+
+    for (int i = 0; i <= 10; i++)
+    {
+        printf("введите число массива %d", i);
+        scanf("%d", num[i]);
+    }
+    printf("Четные числа:");
+    for (int i = 0; i <= 10; i++)
+    {
+        if (num[i] % 2 == 0) {
+            printf("Число номер %d само число :%d", i, num[i]);
+        }
+
+    }
 
     return 0;
 }
