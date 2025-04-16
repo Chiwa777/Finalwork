@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\u0438\u0439\\Documents\\Laba5\\",
+  "WorkspaceRootPath": "C:\\IT_in_PA\\Arsen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC2375E-C084-45E5-8D49-49640F4E60C5}|Laba5\\Laba5.vcxproj|C:\\Users\\\u0410\u0440\u0441\u0435\u043D\u0438\u0439\\Documents\\Laba5\\Laba5\\Laba5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{BEC2375E-C084-45E5-8D49-49640F4E60C5}|Laba5\\Laba5.vcxproj|C:\\IT_in_PA\\Arsen\\Laba5\\Laba5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BEC2375E-C084-45E5-8D49-49640F4E60C5}|Laba5\\Laba5.vcxproj|solutionrelative:Laba5\\Laba5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Laba5.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\u0438\u0439\\Documents\\Laba5\\Laba5\\Laba5.cpp",
+              "DocumentMoniker": "C:\\IT_in_PA\\Arsen\\Laba5\\Laba5.cpp",
               "RelativeDocumentMoniker": "Laba5\\Laba5.cpp",
-              "ToolTip": "C:\\Users\\\u0410\u0440\u0441\u0435\u043D\u0438\u0439\\Documents\\Laba5\\Laba5\\Laba5.cpp",
+              "ToolTip": "C:\\IT_in_PA\\Arsen\\Laba5\\Laba5.cpp",
               "RelativeToolTip": "Laba5\\Laba5.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-16T15:05:07.793Z",
               "EditorCaption": ""
